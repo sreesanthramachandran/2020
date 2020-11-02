@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Nov 2020 14:30:46 at https://themeisle.com/demo/?theme=Hestia&sscid=b1k4_1cfkb +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themeisle.com/demo/?theme=Hestia&sscid=b1k4_1cfkb -O1 "C:\My Web Sites\gat" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:30:56	Error: 	"Forbidden" (403) at link https://themeisle.com/demo/ (from https://themeisle.com/demo/?theme=Hestia&sscid=b1k4_1cfkb)
+14:30:57	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://themeisle.com/demo/?theme=Hestia&sscid=b1k4_1cfkb)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 14 links scanned, 11 files written (387840 bytes overall) [184859 bytes received at 16805 bytes/sec], 287439 bytes transferred using HTTP compression in 9 files, ratio 25%, 2.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
